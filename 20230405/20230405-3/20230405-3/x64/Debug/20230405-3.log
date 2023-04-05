@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\Desktop\HR\C언어\20230405\20230405-3\20230405-3\main.cpp(11,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\HR\C언어\20230405\20230405-3\20230405-3\main.cpp(12,30): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20230405-3.vcxproj -> C:\Users\user\Desktop\HR\C언어\20230405\20230405-3\x64\Debug\20230405-3.exe
